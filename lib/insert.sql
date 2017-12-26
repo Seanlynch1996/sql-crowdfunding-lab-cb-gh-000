@@ -40,4 +40,3 @@ INSERT INTO projects(title, category, funding_goal, start_date, end_date) VALUES
 "Project18","FooR",131072000,"459194","459559"),
 "Project19","FooS",262144000,"489489","489854"),
 "Project20","FooT",524288000,"520149","520514");
-

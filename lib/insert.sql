@@ -18,5 +18,3 @@ INSERT INTO users (name, age) VALUES ("A",5),
 ("R",90),
 ("S",95),
 ("T",100);
-
- 
